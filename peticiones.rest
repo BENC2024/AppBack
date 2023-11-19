@@ -1,0 +1,5 @@
+GET http://localhost:3000/api/songs
+
+###
+
+GET  http://localhost:3000/api/songs/654d49505a605b8c0542cdcd
